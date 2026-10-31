@@ -1,6 +1,6 @@
 {
  "quelle": "https://ruracars.de/data/vehicles.json",
- "geprueft": "2026-10-31",
+ "geprueft": "2026-11-01",
  "fahrzeuge": [
   {
    "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-dark-label",
@@ -30,33 +30,6 @@
    "anzeige": "https://www.autoscout24.de/angebote/881f954d-bc7c-4b2d-8aea-3c2dba36d21e"
   },
   {
-   "id": "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport",
-   "titel": "Jaguar XF XF 25d AWD Sportbrake Aut. R-Sport",
-   "modell": "Jaguar XF",
-   "ausstattung": "25d AWD Sportbrake Aut. R-Sport",
-   "ez": "03/2018",
-   "km": 91230,
-   "ps": 241,
-   "kraftstoff": "Diesel",
-   "getriebe": "Automatik",
-   "preis": 16900,
-   "alterPreis": 0,
-   "preisGesenkt": "",
-   "seit": "",
-   "entfernt": "",
-   "fotos": [
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/1.webp",
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/2.webp",
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/3.webp",
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/4.webp",
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/5.webp",
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/6.webp",
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/7.webp",
-    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/8.webp"
-   ],
-   "anzeige": "https://www.autoscout24.de/angebote/247f296f-12d7-4a08-9155-6c59c916f878"
-  },
-  {
    "id": "smart-fortwo-smart-fortwo-cabrio-eq-prime",
    "titel": "smart forTwo smart fortwo cabrio EQ prime",
    "modell": "smart forTwo cabrio",
@@ -82,6 +55,33 @@
     "smart-fortwo-smart-fortwo-cabrio-eq-prime/8.webp"
    ],
    "anzeige": "https://www.autoscout24.de/angebote/75e86683-15c5-45cc-b1e2-dc48e8b1167c"
+  },
+  {
+   "id": "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport",
+   "titel": "Jaguar XF XF 25d AWD Sportbrake Aut. R-Sport",
+   "modell": "Jaguar XF",
+   "ausstattung": "25d AWD Sportbrake Aut. R-Sport",
+   "ez": "03/2018",
+   "km": 91230,
+   "ps": 241,
+   "kraftstoff": "Diesel",
+   "getriebe": "Automatik",
+   "preis": 16900,
+   "alterPreis": 0,
+   "preisGesenkt": "",
+   "seit": "",
+   "entfernt": "",
+   "fotos": [
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/1.webp",
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/2.webp",
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/3.webp",
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/4.webp",
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/5.webp",
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/6.webp",
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/7.webp",
+    "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/8.webp"
+   ],
+   "anzeige": "https://www.autoscout24.de/angebote/247f296f-12d7-4a08-9155-6c59c916f878"
   },
   {
    "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life",
