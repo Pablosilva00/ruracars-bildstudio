@@ -1,0 +1,48 @@
+# RuraCars Bild-Studio: holt alle 2 Stunden den Fahrzeugbestand von ruracars.de
+# (Daten + Fotos) und legt ihn neben die App. Manuell starten: Actions > Bestand aktualisieren > Run workflow.
+name: Bestand aktualisieren
+
+on:
+  schedule:
+    - cron: '23 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: bestand
+  cancel-in-progress: false
+
+jobs:
+  bestand:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Bestand von ruracars.de holen
+        run: node scripts/bestand-sync.mjs
+
+      - name: Änderungen speichern
+        id: speichern
+        run: |
+          git config user.name "RuraCars Bestand"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A ruracars-bildstudio/bestand
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+            echo "geaendert=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Bestand aktualisiert"
+            git push
+            echo "geaendert=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Website neu veröffentlichen
+        if: steps.speichern.outputs.geaendert == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" > /dev/null && echo "Neuer Pages-Build angefordert."
