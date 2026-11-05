@@ -1,6 +1,6 @@
 {
  "quelle": "https://ruracars.de/data/vehicles.json",
- "geprueft": "2026-11-05",
+ "geprueft": "2026-11-06",
  "fahrzeuge": [
   {
    "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-dark-label",
@@ -165,33 +165,6 @@
    "anzeige": "https://www.autoscout24.de/angebote/fba5501c-7728-4959-aa9f-b820d6b099ac"
   },
   {
-   "id": "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport",
-   "titel": "Audi A6 A6 Avant 50 TFSI e quattro S tronic sport",
-   "modell": "Audi A6 Avant",
-   "ausstattung": "50 TFSI e quattro S tronic sport",
-   "ez": "04/2021",
-   "km": 141000,
-   "ps": 265,
-   "kraftstoff": "Hybrid",
-   "getriebe": "Automatik",
-   "preis": 31900,
-   "alterPreis": 0,
-   "preisGesenkt": "",
-   "seit": "",
-   "entfernt": "",
-   "fotos": [
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/1.webp",
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/2.webp",
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/3.webp",
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/4.webp",
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/5.webp",
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/6.webp",
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/7.webp",
-    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/8.webp"
-   ],
-   "anzeige": "https://www.autoscout24.de/angebote/82e72973-d2ae-4667-9f56-737c8a1bbc0b"
-  },
-  {
    "id": "volkswagen-polo-polo-10-life",
    "titel": "Volkswagen Polo Polo 1.0 Life",
    "modell": "Volkswagen Polo",
@@ -219,6 +192,33 @@
    "anzeige": "https://www.autoscout24.de/angebote/ca71865c-6f21-405c-a832-5824b263cac8"
   },
   {
+   "id": "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport",
+   "titel": "Audi A6 A6 Avant 50 TFSI e quattro S tronic sport",
+   "modell": "Audi A6 Avant",
+   "ausstattung": "50 TFSI e quattro S tronic sport",
+   "ez": "04/2021",
+   "km": 141000,
+   "ps": 265,
+   "kraftstoff": "Hybrid",
+   "getriebe": "Automatik",
+   "preis": 31900,
+   "alterPreis": 0,
+   "preisGesenkt": "",
+   "seit": "",
+   "entfernt": "",
+   "fotos": [
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/1.webp",
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/2.webp",
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/3.webp",
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/4.webp",
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/5.webp",
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/6.webp",
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/7.webp",
+    "audi-a6-a6-avant-50-tfsi-e-quattro-s-tronic-sport/8.webp"
+   ],
+   "anzeige": "https://www.autoscout24.de/angebote/82e72973-d2ae-4667-9f56-737c8a1bbc0b"
+  },
+  {
    "id": "peugeot-boxer-boxer-hdi-333-l2h2-s",
    "titel": "Peugeot Boxer Boxer HDi 333 L2H2 S",
    "modell": "Peugeot Boxer",
@@ -232,7 +232,7 @@
    "alterPreis": 0,
    "preisGesenkt": "",
    "seit": "",
-   "entfernt": "",
+   "entfernt": "2026-11-06",
    "fotos": [
     "peugeot-boxer-boxer-hdi-333-l2h2-s/1.webp",
     "peugeot-boxer-boxer-hdi-333-l2h2-s/2.webp",
