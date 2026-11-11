@@ -1,6 +1,6 @@
 {
  "quelle": "https://ruracars.de/data/vehicles.json",
- "geprueft": "2026-11-10",
+ "geprueft": "2026-11-11",
  "fahrzeuge": [
   {
    "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-dark-label",
@@ -120,9 +120,9 @@
    "ps": 354,
    "kraftstoff": "Benzin",
    "getriebe": "Automatik",
-   "preis": 24900,
-   "alterPreis": 0,
-   "preisGesenkt": "",
+   "preis": 22900,
+   "alterPreis": 24900,
+   "preisGesenkt": "2026-11-11",
    "seit": "",
    "entfernt": "",
    "fotos": [
