@@ -1,6 +1,6 @@
 {
  "quelle": "https://ruracars.de/data/vehicles.json",
- "geprueft": "2026-11-12",
+ "geprueft": "2026-11-13",
  "fahrzeuge": [
   {
    "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-dark-label",
@@ -57,33 +57,6 @@
    "anzeige": "https://www.autoscout24.de/angebote/247f296f-12d7-4a08-9155-6c59c916f878"
   },
   {
-   "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life",
-   "titel": "Volkswagen Caddy Caddy 1.5 TSI BMT (5-Si.) Life",
-   "modell": "Volkswagen Caddy",
-   "ausstattung": "1.5 TSI BMT (5-Si.) Life",
-   "ez": "12/2022",
-   "km": 15130,
-   "ps": 114,
-   "kraftstoff": "Benzin",
-   "getriebe": "Schaltgetriebe",
-   "preis": 22900,
-   "alterPreis": 0,
-   "preisGesenkt": "",
-   "seit": "",
-   "entfernt": "",
-   "fotos": [
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/1.webp",
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/2.webp",
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/3.webp",
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/4.webp",
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/5.webp",
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/6.webp",
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/7.webp",
-    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/8.webp"
-   ],
-   "anzeige": "https://www.autoscout24.de/angebote/2e763a36-b8e1-4daf-bb84-600ce507d6bc"
-  },
-  {
    "id": "smart-fortwo-smart-fortwo-cabrio-eq-prime",
    "titel": "smart forTwo smart fortwo cabrio EQ prime",
    "modell": "smart forTwo cabrio",
@@ -109,6 +82,33 @@
     "smart-fortwo-smart-fortwo-cabrio-eq-prime/8.webp"
    ],
    "anzeige": "https://www.autoscout24.de/angebote/75e86683-15c5-45cc-b1e2-dc48e8b1167c"
+  },
+  {
+   "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life",
+   "titel": "Volkswagen Caddy Caddy 1.5 TSI BMT (5-Si.) Life",
+   "modell": "Volkswagen Caddy",
+   "ausstattung": "1.5 TSI BMT (5-Si.) Life",
+   "ez": "12/2022",
+   "km": 15130,
+   "ps": 114,
+   "kraftstoff": "Benzin",
+   "getriebe": "Schaltgetriebe",
+   "preis": 22900,
+   "alterPreis": 0,
+   "preisGesenkt": "",
+   "seit": "",
+   "entfernt": "",
+   "fotos": [
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/1.webp",
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/2.webp",
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/3.webp",
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/4.webp",
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/5.webp",
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/6.webp",
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/7.webp",
+    "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life/8.webp"
+   ],
+   "anzeige": "https://www.autoscout24.de/angebote/2e763a36-b8e1-4daf-bb84-600ce507d6bc"
   },
   {
    "id": "audi-s5-s5-coupe-30-tfsi-quattro-tiptronic",
