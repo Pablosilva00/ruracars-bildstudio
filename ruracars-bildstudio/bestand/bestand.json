@@ -3,33 +3,6 @@
  "geprueft": "2026-11-25",
  "fahrzeuge": [
   {
-   "id": "smart-fortwo-smart-fortwo-cabrio-eq-prime",
-   "titel": "smart forTwo smart fortwo cabrio EQ prime",
-   "modell": "smart forTwo cabrio",
-   "ausstattung": "EQ prime",
-   "ez": "11/2020",
-   "km": 40530,
-   "ps": 82,
-   "kraftstoff": "Elektro",
-   "getriebe": "Automatik",
-   "preis": 10900,
-   "alterPreis": 0,
-   "preisGesenkt": "",
-   "seit": "",
-   "entfernt": "",
-   "fotos": [
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/1.webp",
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/2.webp",
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/3.webp",
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/4.webp",
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/5.webp",
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/6.webp",
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/7.webp",
-    "smart-fortwo-smart-fortwo-cabrio-eq-prime/8.webp"
-   ],
-   "anzeige": "https://www.autoscout24.de/angebote/75e86683-15c5-45cc-b1e2-dc48e8b1167c"
-  },
-  {
    "id": "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport",
    "titel": "Jaguar XF XF 25d AWD Sportbrake Aut. R-Sport",
    "modell": "Jaguar XF",
@@ -55,6 +28,33 @@
     "jaguar-xf-xf-25d-awd-sportbrake-aut-r-sport/8.webp"
    ],
    "anzeige": "https://www.autoscout24.de/angebote/247f296f-12d7-4a08-9155-6c59c916f878"
+  },
+  {
+   "id": "smart-fortwo-smart-fortwo-cabrio-eq-prime",
+   "titel": "smart forTwo smart fortwo cabrio EQ prime",
+   "modell": "smart forTwo cabrio",
+   "ausstattung": "EQ prime",
+   "ez": "11/2020",
+   "km": 40530,
+   "ps": 82,
+   "kraftstoff": "Elektro",
+   "getriebe": "Automatik",
+   "preis": 10900,
+   "alterPreis": 0,
+   "preisGesenkt": "",
+   "seit": "",
+   "entfernt": "",
+   "fotos": [
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/1.webp",
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/2.webp",
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/3.webp",
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/4.webp",
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/5.webp",
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/6.webp",
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/7.webp",
+    "smart-fortwo-smart-fortwo-cabrio-eq-prime/8.webp"
+   ],
+   "anzeige": "https://www.autoscout24.de/angebote/75e86683-15c5-45cc-b1e2-dc48e8b1167c"
   },
   {
    "id": "volkswagen-caddy-caddy-15-tsi-bmt-5-si-life",
