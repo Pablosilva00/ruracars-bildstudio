@@ -111,6 +111,33 @@
    "anzeige": "https://www.autoscout24.de/angebote/6ca397dd-62b0-47d5-b574-2ceefd936dcc"
   },
   {
+   "id": "volkswagen-polo-active-polo-10",
+   "titel": "Volkswagen Polo ACTIVE Polo 1.0",
+   "modell": "Volkswagen Polo ACTIVE",
+   "ausstattung": "1.0",
+   "ez": "06/2023",
+   "km": 129900,
+   "ps": 80,
+   "kraftstoff": "Benzin",
+   "getriebe": "Schaltgetriebe",
+   "preis": 11900,
+   "alterPreis": 0,
+   "preisGesenkt": "",
+   "seit": "2026-11-27",
+   "entfernt": "",
+   "fotos": [
+    "volkswagen-polo-active-polo-10/1.webp",
+    "volkswagen-polo-active-polo-10/2.webp",
+    "volkswagen-polo-active-polo-10/3.webp",
+    "volkswagen-polo-active-polo-10/4.webp",
+    "volkswagen-polo-active-polo-10/5.webp",
+    "volkswagen-polo-active-polo-10/6.webp",
+    "volkswagen-polo-active-polo-10/7.webp",
+    "volkswagen-polo-active-polo-10/8.webp"
+   ],
+   "anzeige": "https://www.autoscout24.de/angebote/4a1d9767-ec4c-480a-82c2-8c06321cd046"
+  },
+  {
    "id": "volkswagen-t5-multivan-multivan-dpf-comfortline",
    "titel": "Volkswagen T5 Multivan Multivan DPF Comfortline",
    "modell": "Volkswagen T5 Multivan",
@@ -174,9 +201,9 @@
    "ps": 80,
    "kraftstoff": "Benzin",
    "getriebe": "Schaltgetriebe",
-   "preis": 13900,
-   "alterPreis": 0,
-   "preisGesenkt": "",
+   "preis": 13500,
+   "alterPreis": 13900,
+   "preisGesenkt": "2026-11-27",
    "seit": "",
    "entfernt": "",
    "fotos": [
